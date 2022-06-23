@@ -6,12 +6,14 @@
 
 <h1 align="center"> 📊 Stats: </h1>
 
-<a href="https://github.com/KarlGNassar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarlGNassar&count_private=true&show_icons=true&theme=radical&hide=issues, stars" />
-</a>
-<a href="https://github.com/KarlGNassar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlGNassar&layout=compact&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/KarlGNassar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarlGNassar&count_private=true&show_icons=true&theme=radical&hide=issues, stars" />
+  </a>
+  <a href="https://github.com/KarlGNassar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlGNassar&layout=compact&theme=radical" />
+  </a>
+</div>
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
