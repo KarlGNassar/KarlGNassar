@@ -9,7 +9,7 @@
 <div align="center">
   <div>
     <a href="https://github.com/KarlGNassar">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarlGNassar&count_private=true&show_icons=true&theme=radical&hide=issues, stars" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarlGNassar&count_private=true&show_icons=true&theme=radical&hide=issues,%20stars" />
     </a>
   </div>
   <br>
